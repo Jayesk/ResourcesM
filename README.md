@@ -11,3 +11,6 @@ This resource adds a simple Speedometer and Speedlimiter, no changes are needed 
 
 # Reduce Lag (Reduces Pedestrians and Traffic)
 This resource reduces the pedestrians and traffic by around 40 percent. This resource may not work properly if you have any other resources that change the properties of the pedestrians and traffic. No changes are needed to the code so just place the /reduceserverlag/ file in your server resources and make sure the 'reduceserverlag' resource is started up with the server.
+
+# Health
+This resource regens the players health to the max. It is suggested you edit this resource a bit to make it an admin or trusted persons only command. No changes are needed to the code so just place the /health/ file in your server resources and make sure the 'health' resource is started up with the server.
