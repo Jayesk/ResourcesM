@@ -16,4 +16,4 @@ This resource reduces the pedestrians and traffic by around 40 percent. This res
 # Health
 This resource regens the players health to the max. It is suggested you edit this resource a bit to make it an admin or trusted persons only command. No changes are needed to the code so just place the /health/ folder in your server resources and make sure the 'health' resource is started up with the server.
 
-Version 0.2.1
+# Version 0.2.1
